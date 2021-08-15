@@ -1,4 +1,4 @@
-# Stock-Analysis
+# Stock_Analysis
 
 ## Analyze 12 stocks to deteremine which to recommend to Steve's parents
 
